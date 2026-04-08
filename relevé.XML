@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE releve SYSTEM "file:/C:/Users/s.rochdi/Desktop/ENSET/Technologie%20XML%20et%20Web%20Service/Projets/Activit%C3%A9%20Pratique%20N%C2%B02/Relev%C3%A9%20DTD.dtd">
+<releve rib="87565">
+    <datereleve>2026-04-04</datereleve>
+    <solde>15000</solde>
+    <operations dateDebut="2026-01-01" dateFin="2026-01-31">
+        <operation type="DEBIT" date="2026-01-02" montant="400" description="virement"/>
+        <operation type="CREDIT" date="2026-01-08" montant="1000" description="retrait GAB"/>
+    </operations>
+</releve>

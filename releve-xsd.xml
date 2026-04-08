@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<releve xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="file:/C:/Users/s.rochdi/Desktop/ENSET/Technologie%20XML%20et%20Web%20Service/Projets/Activit%C3%A9%20Pratique%20N%C2%B02/Releve.xsd" 
+    RIB="48454151515">
+    <dateReleve>2026-02-28</dateReleve>
+    <solde>50</solde>
+    <operations dateDebut="2026-02-01" dateFin="2026-02-28">
+        <operation type="DEBIT" date="2026-02-01" montant="3550" description="virement"/>
+        <operation type="CREDIT" date="2026-02-03" montant="3500" description="retrait GAB"/>
+    </operations>
+</releve>
